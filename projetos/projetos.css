@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+.f-projetos {
+    background-color: rgb(41, 80, 124);
+    color: #ffffff;
+    text-align: center;
+}
